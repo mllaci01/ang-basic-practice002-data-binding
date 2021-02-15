@@ -1,0 +1,6 @@
+[0125/170939.790:ERROR:directory_reader_win.cc(43)] FindFirstFile: A rendszer nem találja a megadott elérési utat. (0x3)
+[0213/135413.096:ERROR:registration_protocol_win.cc(102)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[0213/135632.074:ERROR:registration_protocol_win.cc(102)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[0213/164917.821:ERROR:registration_protocol_win.cc(102)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[0213/165416.427:ERROR:registration_protocol_win.cc(102)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[0215/105022.386:ERROR:registration_protocol_win.cc(102)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
